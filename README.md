@@ -1,6 +1,6 @@
 # Analysis of Tax Awareness and Payment in Nigeria
 
-**DSN POWERBI HACKATHON BY OLAMILEKAN OMOTOSHO**
+[**DSN POWERBI HACKATHON**](https://github.com/DataScienceNigeria/DSN-AI-Bootcamp-2023-Qualification-Project-Participation-and-Hackathon/blob/main/Microsoft%20Power%20BI.md)
 
 This project provides a comprehensive analysis of tax awareness and payment behaviors in Nigeria. It derives its findings from a survey of over 16,000 individuals spanning all Nigerian states, including the Federal Capital Territory (FCT).
 
